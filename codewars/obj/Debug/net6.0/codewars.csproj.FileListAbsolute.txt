@@ -1,0 +1,15 @@
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\obj\Debug\net6.0\codewars.csproj.AssemblyReference.cache
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\obj\Debug\net6.0\codewars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\obj\Debug\net6.0\codewars.AssemblyInfoInputs.cache
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\obj\Debug\net6.0\codewars.AssemblyInfo.cs
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\obj\Debug\net6.0\codewars.csproj.CoreCompileInputs.cache
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\bin\Debug\net6.0\codewars.exe
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\bin\Debug\net6.0\codewars.deps.json
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\bin\Debug\net6.0\codewars.runtimeconfig.json
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\bin\Debug\net6.0\codewars.dll
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\bin\Debug\net6.0\codewars.pdb
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\obj\Debug\net6.0\codewars.dll
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\obj\Debug\net6.0\refint\codewars.dll
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\obj\Debug\net6.0\codewars.pdb
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\obj\Debug\net6.0\codewars.genruntimeconfig.cache
+C:\Users\cacakfi20\RiderProjects\codewars\codewars\obj\Debug\net6.0\ref\codewars.dll
